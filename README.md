@@ -44,7 +44,7 @@ sudo ./dns.sh
 | **🏢 企业级/骨干网** | **Level3** | 美国骨干网运营商，**北美 (US) VPS 首选** |
 | | **Neustar** | 世界 500 强企业专用，极其稳定 |
 | | **OpenDNS** | Cisco 旗下，线路质量极高 |
-| **🌏 区域优化** | **PCCW / HKBN** | **香港** 本地 ISP 优化，HK VPS 推荐 |
+| **🌏 区域优化** | **HKBN** | **香港** 宽频极速 DNS，HK VPS 推荐 |
 | | **HiNet / Quad101** | **台湾** 本地优化，TW VPS 推荐 |
 | | **KT DNS** | **韩国** 电信霸主，KR VPS 推荐 |
 | | **Yandex** | **俄罗斯** 搜索引擎巨头，RU/CIS 地区推荐 |
