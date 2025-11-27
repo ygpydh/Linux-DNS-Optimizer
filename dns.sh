@@ -29,25 +29,31 @@ DNS_LIST=(
     "94.140.14.14|AdGuard DNS (Default - AdBlock)"
     "94.140.15.15|AdGuard DNS (Family Protection)"
     "1.1.1.2|Cloudflare (Malware Blocking)"
-    "9.9.9.9|Quad9 (Malware Blocking)"
+    "9.9.9.9|Quad9 (Malware Blocking - Swiss/EU)"
 
-    # --- 泛亚太/全球高速 (Global Anycast - 推荐 HK/JP/SG) ---
+    # --- 全球/欧美高速 (Global Anycast - US/EU Recommended) ---
     "1.1.1.1|Cloudflare (IPv4)"
     "8.8.8.8|Google Public DNS (IPv4)"
-    "208.67.222.222|OpenDNS (IPv4)"
+    "208.67.222.222|OpenDNS (Cisco - IPv4)"
     "1.0.0.1|Cloudflare Secondary"
     "8.8.4.4|Google Secondary"
+
+    # --- 美国/欧洲本地优化 (US/DE/EU Backbone) ---
+    "4.2.2.1|Level3 (US Backbone - CenturyLink)"
+    "4.2.2.2|Level3 Secondary (US)"
+    "84.200.69.80|DNS.WATCH (Germany - Privacy)"
+    "84.200.70.40|DNS.WATCH Secondary (DE)"
     
-    # --- 地区特色优化 (Regional - TW/KR) ---
+    # --- 亚太地区优化 (Asia Regional - TW/KR) ---
     "101.101.101.101|Quad101 (Taiwan - TWNIC)"
     "168.95.1.1|HiNet (Taiwan Telecom)"
-    "168.126.63.1|KT DNS (South Korea)"
+    "168.126.63.1|KT DNS (South Korea Telecom)"
     
     # --- IPv6 ---
     "2606:4700:4700::1111|Cloudflare (IPv6)"
     "2001:4860:4860::8888|Google (IPv6)"
     "2a10:50c0::ad1:ff|AdGuard (IPv6)"
-    "2001:b000:168::1|HiNet (Taiwan IPv6)"
+    "2001:1608:10:25::1c04:b12f|DNS.WATCH (IPv6 - DE)"
 )
 
 # ====================================================
