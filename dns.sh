@@ -2,7 +2,7 @@
 # ====================================================
 # Project: Linux DNS Optimizer
 # Description: Smart script to benchmark & switch to the fastest DNS
-# Source: https://github.com/YourUsername/Linux-DNS-Optimizer
+# Source: https://github.com/EmersonLopez2005/Linux-DNS-Optimizer
 # License: MIT
 # ====================================================
 
