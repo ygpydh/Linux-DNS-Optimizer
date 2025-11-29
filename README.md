@@ -57,14 +57,16 @@ sudo ./dns.sh
 
 📄 License
 MIT License
+
 <p align="center">
   <a href="https://github.com/EmersonLopez2005/Linux-DNS-Optimizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmersonLopez2005&repo=Linux-DNS-Optimizer&theme=nightowl&show_owner=true" alt="GitHub Repo Card">
+    <img src="https://img.shields.io/github/stars/EmersonLopez2005/Linux-DNS-Optimizer?style=for-the-badge&color=blue&label=Stars&logo=github" alt="Stars">
+  </a>
+  <a href="https://github.com/EmersonLopez2005/Linux-DNS-Optimizer/network/members">
+    <img src="https://img.shields.io/github/forks/EmersonLopez2005/Linux-DNS-Optimizer?style=for-the-badge&color=orange&label=Forks&logo=github" alt="Forks">
   </a>
 </p>
-
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=EmersonLopez2005&theme=gitdimmed&no-frame=true&margin-w=4" alt="Trophy">
 </p>
-
